@@ -1,1 +1,1 @@
-# testnet-assets
+# mainnet-assets
